@@ -1,0 +1,25 @@
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #ebebeb;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.dark{
+  background-color: #1c1c1c;
+  color: aliceblue;
+  box-shadow: #191616;
+}
+
+.darkCard{
+  color: aliceblue;
+  background-color: rgb(32, 32, 32);
+  box-shadow: 0 0 2px 0px rgb(20, 20, 20);
+}
+
+.cardNormal{
+  background-color:rgb(240, 240, 240);
+  box-shadow: 0 0 2px 0px lightgray;
+
+}
